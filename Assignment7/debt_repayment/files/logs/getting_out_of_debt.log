@@ -1,0 +1,65 @@
+2025-02-25 18:24:21,156 UTC - DEBUG - AmortizationTable - Line # 35: Test Debug (⌐■_■)
+2025-02-25 18:24:21,156 UTC - INFO - AmortizationTable - Line # 36: Test info (⌐■_■)
+2025-02-25 18:24:21,156 UTC - WARNING - AmortizationTable - Line # 37: Test Warning (⌐■_■)
+2025-02-25 18:24:21,156 UTC - ERROR - AmortizationTable - Line # 38: Test error(⌐■_■)
+2025-02-25 18:24:21,156 UTC - CRITICAL - AmortizationTable - Line # 39: Test critical (⌐■_■)
+2025-02-25 22:48:22,454 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:22,455 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:22,455 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:22,456 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:37,418 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:37,418 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:37,419 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:37,419 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:37,419 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:37,419 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:37,419 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:37,419 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:38,264 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:38,264 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:38,264 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:38,265 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:38,265 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:38,265 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:38,265 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:38,265 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:38,265 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:38,266 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:38,266 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:38,266 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:48:41,906 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:41,906 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:41,906 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:41,906 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:41,906 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:48:41,907 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:41,907 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:41,907 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:48:41,907 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:53:57,144 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:53:57,144 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:53:57,144 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:53:57,144 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:53:57,144 UTC - INFO - AmortizationTable - Line # 42: Initializing Table Instance
+2025-02-25 22:53:57,145 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:53:57,145 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:53:57,145 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:53:57,145 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:53:57,145 UTC - DEBUG - AmortizationTable - Line # 49: Loan details: Type=Auto, Balance=20000.0, Interest Rate=6.0, Term=35 months, Monthly Payment=624.31
+2025-02-25 22:53:57,145 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:53:57,145 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:53:57,145 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:53:57,145 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:53:57,145 UTC - INFO - AmortizationTable - Line # 60: Creating Table...
+2025-02-25 22:53:57,146 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:53:57,146 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:53:57,146 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:53:57,146 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
+2025-02-25 22:53:57,146 UTC - INFO - AmortizationTable - Line # 91: Table created with 35rows.
